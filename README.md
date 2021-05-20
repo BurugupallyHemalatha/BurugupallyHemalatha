@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<h1 align="center">Hi 👋, I'm BurugupallyHemalatha</h1>
+<h1 align="center">I'm BurugupallyHemalatha</h1>
 dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhemalatha" /></p>
 -->
 <h1 align="center">Hi 👋, I'm BurugupallyHemalatha</h1>
