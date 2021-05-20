@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm BurugupallyHemalatha</h1>
-<h3 align="center">https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif</h3>
+<h3 align="center">https://media.giphy.com/media/1XCcD9VLQZ2Io/source.gif</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burugupallyhemalatha&label=Profile%20views&color=0e75b6&style=flat" alt="burugupallyhemalatha" /> </p>
 
