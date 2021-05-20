@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center">Hi 👋, I'm BurugupallyHemalatha</h1>
-<h3 align="center">https://media.giphy.com/media/1XCcD9VLQZ2Io/source.gif</h3>
-
+dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhemalatha" /></p>
+-->
+<h1 align="center">Hi , I'm BurugupallyHemalatha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burugupallyhemalatha&label=Profile%20views&color=0e75b6&style=flat" alt="burugupallyhemalatha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemalatha-reddy-54075a1b8?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3buk2%2fb7q2sq%2bs2czyhaxqea%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemalatha-reddy-54075a1b8?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3buk2%2fb7q2sq%2bs2czyhaxqea%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/__hema_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="__hema_reddy" height="30" width="40" /></a>
 </p>
 
@@ -44,4 +44,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burugupallyhemalatha&show_icons=true&locale=en" alt="burugupallyhemalatha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhemalatha" /></p>
-
