@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm BurugupallyHemalatha</h1>
 dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhemalatha" /></p>
 -->
-<h1 align="center">Hi , I'm BurugupallyHemalatha</h1>
+<h1 align="center">Hi 👋, I'm BurugupallyHemalatha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burugupallyhemalatha&label=Profile%20views&color=0e75b6&style=flat" alt="burugupallyhemalatha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -30,10 +30,11 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
 - 💬 Ask me about **python,javascript and Reactjs.**
 
 - 📫 How to reach me **hemareddyr05@gmail.com**
+- ⚡ Fun fact: Iam HAPPY when iam with my family😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/__hema_reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__hema_reddy/" height="30" width="40" /></a>
+<a href="https://instagram.com/__hema_reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__hema_reddy/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
