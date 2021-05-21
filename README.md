@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm BurugupallyHemalatha</h1>
 dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhemalatha" /></p>
 -->
-<h1 align="center">Hi 👋, I'm BurugupallyHemalatha</h1>
+<h1 align="center">Hi Developers👋, Burugupally Hemalatha Reddy here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burugupallyhemalatha&label=Profile%20views&color=0e75b6&style=flat" alt="burugupallyhemalatha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -33,8 +33,7 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
 - ⚡ Happy: Iam HAPPY when iam with my family😄
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/__hema_reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__hema_reddy/" height="30" width="40" /></a>
+<p align="left"><a href="https://instagram.com/__hema_reddy/" target="_blank"> <img src="https://www.google.com/search?q=instagram+logo&rlz=1C1ONGR_enIN929IN929&sxsrf=ALeKk030fRcRmPG-xbAZfKbH1l1iSH1G2g:1621573148867&tbm=isch&source=iu&ictx=1&fir=QTaDZzzrk3hswM%252CBUDfvvskaptKQM%252C_&vet=1&usg=AI4_-kTuScUy4v7GcC_ujWD9aror3P9Daw&sa=X&ved=2ahUKEwjop4_c_tnwAhUZumMGHfHnAocQ9QF6BAgOEAE&biw=1280&bih=578#imgrc=QTaDZzzrk3hswM" alt="instgram" width="40" height="40"/> </a>
 </p>
 <h2> Technologies I Know</h2>
 <h2 align="left">Frentend Languages :</h2>
@@ -44,13 +43,13 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
   <h2 align ="top">Backend languages:</h2>
  <p align="top"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
 <h2 align="left">Tools:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burugupallyhemalatha&show_icons=true&locale=en&layout=compact" alt="burugupallyhemalatha" /></p>
