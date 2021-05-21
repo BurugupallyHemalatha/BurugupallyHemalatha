@@ -32,17 +32,15 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
 - 📫 How to reach me **hemareddyr05@gmail.com**
 - ⚡ Happy: Iam HAPPY when iam with my family😄
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://instagram.com/__hema_reddy/" target="_blank"> <img src="https://www.google.com/search?q=instagram+logo&rlz=1C1ONGR_enIN929IN929&sxsrf=ALeKk030fRcRmPG-xbAZfKbH1l1iSH1G2g:1621573148867&tbm=isch&source=iu&ictx=1&fir=QTaDZzzrk3hswM%252CBUDfvvskaptKQM%252C_&vet=1&usg=AI4_-kTuScUy4v7GcC_ujWD9aror3P9Daw&sa=X&ved=2ahUKEwjop4_c_tnwAhUZumMGHfHnAocQ9QF6BAgOEAE&biw=1280&bih=578#imgrc=QTaDZzzrk3hswM" alt="instgram" width="40" height="40"/> </a>
 </p>
-<h2> Technologies I Know</h2>
-<h2 align="left">Frentend Languages :</h2>
+<h5> Technologies I Know</h5>
+<h5 align="left">Frentend Languages :</h5>
 <p align ="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>
+   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> 
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
   <h2 align ="top">Backend languages:</h2>
  <p align="top"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -51,6 +49,9 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
 <h2 align="left">Tools:</h2>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"><a href="https://instagram.com/__hema_reddy/" target="_blank"> <img src="https://www.google.com/search?q=instagram+logo&rlz=1C1ONGR_enIN929IN929&sxsrf=ALeKk030fRcRmPG-xbAZfKbH1l1iSH1G2g:1621573148867&tbm=isch&source=iu&ictx=1&fir=QTaDZzzrk3hswM%252CBUDfvvskaptKQM%252C_&vet=1&usg=AI4_-kTuScUy4v7GcC_ujWD9aror3P9Daw&sa=X&ved=2ahUKEwjop4_c_tnwAhUZumMGHfHnAocQ9QF6BAgOEAE&biw=1280&bih=578#imgrc=QTaDZzzrk3hswM" alt="instgram" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burugupallyhemalatha&show_icons=true&locale=en&layout=compact" alt="burugupallyhemalatha" /></p>
 
