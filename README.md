@@ -31,7 +31,7 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
 
 - 📫 How to reach me **hemareddyr05@gmail.com**
 - ⚡ Happy: Iam HAPPY when iam with my family😄
-
+<h2> Technologies i know</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__hema_reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__hema_reddy/" height="30" width="40" /></a>
