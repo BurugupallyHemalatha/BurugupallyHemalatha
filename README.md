@@ -54,5 +54,5 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhemalatha" /></p>
 
 
-<p>&nbsp;<img align="center" alt="burugupallyhemalatha" /></p>
+
 
