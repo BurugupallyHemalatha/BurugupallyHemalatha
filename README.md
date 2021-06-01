@@ -46,16 +46,15 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </h5></a></p>
 <h5 align="left">Tools:<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a></p></h5>
-
-                        <a href="https://www.linkedin.com/" target="_blank" class="home__social icon">
-                            <i class="uil uil-linkedin-alt"></i>
-                        </a>
-                        <a href="https://dribbble.com/" target="_blank" class="home__social icon">
-                            <i class="uil uil-dribbble"></i>
-                        </a>
-                        <a href="https://github.com/" target="_blank" class="home__social icon">
-                            <i class="uil uil-github-alt"></i>
-                        </a>
+<a href="https://www.linkedin.com/" target="_blank" class="home__social icon">
+<i class="uil uil-linkedin-alt"></i></a>
+ <h5>contact Me</h5>                    
+<a href="https://dribbble.com/" target="_blank" class="home__social icon">
+<i class="uil uil-dribbble"></i>
+</a>
+<a href="https://github.com/" target="_blank" class="home__social icon">
+ <i class="uil uil-github-alt"></i>   </a>
+                        
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burugupallyhemalatha&show_icons=true&locale=en&layout=compact" alt="burugupallyhemalatha" /></p>
 
