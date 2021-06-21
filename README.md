@@ -48,7 +48,7 @@ dme-streak-stats.herokuapp.com/?user=burugupallyhemalatha&" alt="burugupallyhema
 <h5 align="left">Tools:<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a></p></h5>
 <a href="https://www.linkedin.com/" target="_blank" class="home__social icon">
 <i class="uil uil-linkedin-alt"></i></a>
- <h5>contact Me</h5>                    
+ <!--h5>contact Me</h5-->                    
 <a href="https://dribbble.com/" target="_blank" class="home__social icon">
 <i class="uil uil-dribbble"></i>
 </a>
